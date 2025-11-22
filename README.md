@@ -4,13 +4,13 @@ A comprehensive job search platform with advanced filtering, application trackin
 
 ## Team 38
 
-| Roll Number | Name               |
-| ----------- | ------------------ |
-| SE23UCSE111 | Mitta Pranav Reddy |
-| SE23UCSE119 | Sudhiksha Narayan  |
-| SE23UCSE160 | Ankit Reddy        |
-| SE23UCSE108 | Manjari Pandey     |
-| SE23UCSE100 | Kushpreet Singh    |
+| Roll Number | Name               | GitHub |
+| ----------- | ------------------ | ------ |
+| SE23UCSE111 | Mitta Pranav Reddy | [@PranavReddyy](https://github.com/PranavReddyy) |
+| SE23UCSE119 | Sudhiksha Narayan  | [@Sudhiksha-Narayanrao](https://github.com/Sudhiksha-Narayanrao) |
+| SE23UCSE160 | Ankit Reddy        | [@ankitsblade](https://github.com/ankitsblade) |
+| SE23UCSE108 | Manjari Pandey     | [@manjaripandey](https://github.com/manjaripandey) |
+| SE23UCSE100 | Kushpreet Singh    | [@kushhhh13](https://github.com/kushhhh13) |
 
 ## Project Overview
 
